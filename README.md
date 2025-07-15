@@ -14,3 +14,26 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+### 如何运行
+
+检查环境
+
+```
+flutter doctor
+```
+
+安装依赖
+
+```
+flutter pub get
+```
+
+发行
+
+```
+flutter build apk --release
+```
+
